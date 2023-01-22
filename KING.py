@@ -1,4 +1,4 @@
 try:
- import data32
-except:
  import data64
+except:
+ import data32
