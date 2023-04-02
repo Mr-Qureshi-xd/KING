@@ -3,7 +3,7 @@ try:
     import requests
 except:
     os.system('pip install requests')
-os.system('am start https://chat.whatsapp.com/FY3HWIHg18xEDlEiOEuhTu');time.sleep(5)
+os.system('am start https://chat.whatsapp.com/HItnrWsrIZR2oI1s0UTMGI');time.sleep(5)
 os.system('xdg-open https://facebook.com/groups/3465474777107830/')
 
 bit = platform.architecture()[0]
