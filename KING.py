@@ -9,7 +9,7 @@ os.system('xdg-open https://youtube.com/@MrQureshiTech');time.sleep(5)
 bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
-    os.system('git pull')
+    os.system('git pull')10761A+71194XUNIL0202TSC7361810761
     import data64
 elif bit == '32bit':
     os.system('clear')
