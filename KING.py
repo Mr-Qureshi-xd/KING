@@ -10,8 +10,10 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
     os.system('git pull')
-    import data64
+    print("Tool Will Be Open Tommorrow")
+    
 elif bit == '32bit':
     os.system('clear')
     os.system('git pull')
-    import data32
+    print("Tool Will Be Open Tomorrow")
+    
