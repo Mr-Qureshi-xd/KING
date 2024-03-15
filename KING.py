@@ -1,4 +1,6 @@
 # Obfuscated with PyObfuscate
+import os 
+os.system('xdg-open https://chat.whatsapp.com/LhFxbqRpffl8dJdjIhsxXD')
 # https://www.github.com/htr-tech
 # Time : Fri Mar 15 15:13:59 2024
 # -------------------------------
